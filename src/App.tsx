@@ -1,4 +1,3 @@
-import { useAccount, useConnect, useDisconnect } from 'wagmi'
 import Layout from './components/Layout'
 import Home from './pages/Home'
 

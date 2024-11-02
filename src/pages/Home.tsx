@@ -1,4 +1,3 @@
-import React from "react";
 import DepositInterface from "./DepositInterface";
 
 const Home = () => {

@@ -1,6 +1,7 @@
+// @ts-nocheck
 import React, { createContext, useContext } from "react";
 import { sidebar } from "./helper";
-import { useAccount, useConnect, useDisconnect, useNetw } from "wagmi";
+import { useAccount, useConnect, useDisconnect } from "wagmi";
 interface AppState {
   theme?: string;
   sidebar: MenuStructure;

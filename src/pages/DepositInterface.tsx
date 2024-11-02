@@ -17,6 +17,7 @@ import {
   ArrowDown,
   Container,
 } from "../components/StyledComponents";
+import { useState } from "react";
 
 // Main Component
 const DepositInterface = () => {

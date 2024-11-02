@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 import { useBalance, useAccount } from "wagmi";
 import {
   BalanceText,

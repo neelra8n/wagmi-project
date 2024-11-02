@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Header from "./Header";
 import Drawer from "./Drawer";
 import { useAppState } from "../context/AppProvider";

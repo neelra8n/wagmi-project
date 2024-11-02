@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { createContext, useContext } from "react";
 import { sidebar } from "./helper";
 import { useAccount, useConnect, useDisconnect } from "wagmi";

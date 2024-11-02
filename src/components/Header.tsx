@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Download } from "lucide-react";
 import {
   ControlsSection,

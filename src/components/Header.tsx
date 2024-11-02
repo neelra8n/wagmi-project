@@ -1,7 +1,4 @@
-import React from "react";
-import styled from "styled-components";
 import { Download } from "lucide-react";
-import { useAccount, useConnect, useDisconnect } from "wagmi";
 import {
   ControlsSection,
   FaucetButton,

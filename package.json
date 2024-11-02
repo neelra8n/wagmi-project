@@ -1,0 +1,48 @@
+{
+  "name": "wagmi-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "biome check .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.1.0",
+    "@mui/icons-material": "^6.1.6",
+    "@mui/material": "^6.1.6",
+    "@mui/styled-engine-sc": "^6.1.6",
+    "@tabler/icons-react": "^3.21.0",
+    "@tanstack/react-query": "^5.59.16",
+    "@toolpad/core": "^0.8.1",
+    "dayjs": "^1.11.13",
+    "ethers": "^6.13.4",
+    "lucide-react": "^0.454.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
+    "styled-components": "^6.1.13",
+    "viem": "^2.21.39",
+    "wagmi": "^2.12.25"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "globals": "^15.11.0",
+    "typescript-eslint": "^8.11.0",
+    "@biomejs/biome": "^1.8.0",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "@wagmi/cli": "latest",
+    "buffer": "^6.0.3",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
